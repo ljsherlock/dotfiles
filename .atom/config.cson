@@ -1,0 +1,26 @@
+"*":
+  core:
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/ljsherlock/www"
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 11
+    softWrap: true
+    tabType: "hard"
+  "exception-reporting":
+    userId: "4b4ffcd7-05fb-4e87-b1eb-0d15d31a15b4"
+  jslint:
+    hideOnNoErrors: true
+  "linter-ui-default":
+    panelHeight: 293
+  "linter-xo": {}
+  pigments:
+    markerType: "native-dot"
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  welcome:
+    showOnStartup: false
