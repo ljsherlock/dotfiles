@@ -1,5 +1,8 @@
 "*":
   core:
+    disabledPackages: [
+      "linter-php"
+    ]
     openEmptyEditorOnStart: false
     projectHome: "/Users/ljsherlock/www"
     telemetryConsent: "limited"
@@ -21,6 +24,6 @@
   pigments:
     markerType: "native-dot"
   wakatime:
-    apikey: "Saved in your ~/.wakatime.cfg file"
+    apikey: "Enter your api key..."
   welcome:
     showOnStartup: false
